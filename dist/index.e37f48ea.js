@@ -639,9 +639,17 @@ const controlServings = function(newServings) {
     //recipeView.render(model.state.recipe);
     (0, _recipeViewsJsDefault.default).update(_modelJs.state.recipe);
 };
+const controlAddBookmark = function() {
+    if (!_modelJs.state.recipe.bookmarked) _modelJs.addBookmark(_modelJs.state.recipe);
+    else _modelJs.state.recipe.bookmarked;
+    _modelJs.deleteBookmark(_modelJs.state.recipe.id);
+    console.log(_modelJs.state.recipe);
+    (0, _recipeViewsJsDefault.default).update(_modelJs.state.recipe);
+};
 const init = function() {
     (0, _recipeViewsJsDefault.default).addHandlerRender(controlRecipies);
     (0, _recipeViewsJsDefault.default).addHandlerUpdateServings(controlServings);
+    (0, _recipeViewsJsDefault.default).addHandlerAddBookmark(controlAddBookmark);
     (0, _searchViewJsDefault.default).addHandlerSearch(controlSearchResults);
     (0, _paginationViewJsDefault.default).addHandlerClick(controlPagination);
 };
@@ -1900,6 +1908,8 @@ parcelHelpers.export(exports, "loadRecipe", ()=>loadRecipe);
 parcelHelpers.export(exports, "loadSearchResults", ()=>loadSearchResults);
 parcelHelpers.export(exports, "getSearchResultsPage", ()=>getSearchResultsPage);
 parcelHelpers.export(exports, "updateServings", ()=>updateServings);
+parcelHelpers.export(exports, "addBookmark", ()=>addBookmark);
+parcelHelpers.export(exports, "deleteBookmark", ()=>deleteBookmark);
 var _config = require("./config");
 var _helpers = require("./helpers");
 const state = {
@@ -1909,7 +1919,8 @@ const state = {
         results: [],
         page: 1,
         resultsPerPage: (0, _config.RES_PER_PAGE)
-    }
+    },
+    bookmarks: []
 };
 const loadRecipe = async function(id) {
     try {
@@ -1925,6 +1936,8 @@ const loadRecipe = async function(id) {
             cookingTime: recipe.cooking_time,
             ingredients: recipe.ingredients
         };
+        if (state.bookmarks.some((bookmark)=>bookmark.id === id)) state.recipe.bookmarked = true;
+        else state.recipe.bookmarked = false;
         console.log(state.recipe);
     } catch (err) {
         console.error(`\xa3{err}`);
@@ -1944,6 +1957,7 @@ const loadSearchResults = async function(query) {
                 image: rec.image_url
             };
         });
+        state.search.page = 1;
     } catch (err) {
         console.error(`\xa3{err}`);
         throw err;
@@ -1961,6 +1975,19 @@ const updateServings = function(newServings) {
     //newQT = oldqt * newServings / oldServings //
     });
     state.recipe.servings = newServings;
+};
+const addBookmark = function(recipe) {
+    // Add Bookmark
+    state.bookmarks.push(recipe);
+    //Mark current recipe as bookmark
+    if (recipe.id === state.recipe.id) state.recipe.bookmarked = true;
+};
+const deleteBookmark = function(id) {
+    // Delete Bookmark
+    const index = state.bookmarks.findIndex((el)=>el.id === id);
+    state.bookmarks.splice(index, 1);
+    //Mark current recipe as NOT bookmark
+    if (id === state.recipe.id) state.recipe.bookmarked = false;
 };
 
 },{"./config":"k5Hzs","./helpers":"hGI1E","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"k5Hzs":[function(require,module,exports) {
@@ -2057,6 +2084,13 @@ class RecipeView extends (0, _viewDefault.default) {
             if (+updateTo > 0) handler(+updateTo);
         });
     }
+    addHandlerAddBookmark(handler) {
+        this._parentElement.addEventListener("click", function(e) {
+            const btn = e.target.closest(".btn--bookmark");
+            if (!btn) return;
+            handler();
+        });
+    }
     _generateMarkup() {
         return ` <figure class="recipe__fig">
     <img src=${this._data.image} alt=${this._data.title} class="recipe__img" />
@@ -2097,9 +2131,9 @@ class RecipeView extends (0, _viewDefault.default) {
     <div class="recipe__user-generated">
      
     </div>
-    <button class="btn--round">
+    <button class="btn--round btn--bookmark">
       <svg class="">
-        <use href="${0, _iconsSvgDefault.default}#icon-bookmark-fill"></use>
+        <use href="${0, _iconsSvgDefault.default}#icon-bookmark${this._data.bookmarked ? "-fill" : ""}"></use>
       </svg>
     </button>
   </div>
@@ -2174,12 +2208,10 @@ class View {
         const curElements = Array.from(this._parentElement.querySelectorAll("*"));
         newElements.forEach((newEl, i)=>{
             const curEl = curElements[i];
-            console.log(curEl, newEl.isEqualNode(curEl));
+            //console.log(curEl, newEl.isEqualNode(curEl));
             //Updates changed TEXT
-            if (!newEl.isEqualNode(curEl) && newEl.firstChild?.nodeValue.trim() !== "") {
-                console.log("explosion", newEl.firstChild.nodeValue.trim());
-                curEl.textContent = newEl.textContent;
-            }
+            if (!newEl.isEqualNode(curEl) && newEl.firstChild?.nodeValue.trim() !== "") //      console.log('explosion', newEl.firstChild.nodeValue.trim());
+            curEl.textContent = newEl.textContent;
             // Updates Changed ATTRIBUTES
             if (!newEl.isEqualNode(curEl)) Array.from(newEl.attributes).forEach((attr)=>curEl.setAttribute(attr.name, attr.value));
         });
@@ -2561,7 +2593,7 @@ class ResultsView extends (0, _viewDefault.default) {
     _generateMarkupPreview(result) {
         const id = window.location.hash.slice(1);
         return ` <li class="preview">
-    <a class="preview__link "${reult.id === id ? "preview__link--active" : ""} href="#${result.id}">
+    <a class="preview__link "${result.id === id ? "preview__link--active" : ""} href="#${result.id}">
       <figure class="preview__fig">
         <img src="${result.image}" alt="${result.title}" />
       </figure>
