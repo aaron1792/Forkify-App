@@ -1,4 +1,4 @@
-8135
+8139
 152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\package.json133453068194648386 0
 160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\regexp\test.js133453769909520230 0
 140C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\callsites133453068159133231 1
@@ -11,7 +11,7 @@
 154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib\feeds.d.ts133453068200393032 0
 172C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\node-gyp-build-optional-packages\index.js133453068156111307 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\search.js133453769881841312 0
-130C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules133453815856072681 1
+130C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules133471944282632163 1
 157C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-js\LICENSE133453068177404407 0
 159C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\raw.js133453769858168461 0
 154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\weak-map133453769764251585 1
@@ -37,7 +37,7 @@
 148C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\util\when.js133453068243717271 0
 160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-html\LICENSE133453068178122490 0
 138C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\yallist133453068158504926 1
-145C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeViews.js133469360287298434 0
+145C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeViews.js133471945149422243 0
 180C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133453068198348508 0
 166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\symbol\metadata-key.js133453769823105637 0
 175C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\utility-types\dist\aliases-and-guards.js.map133453068175479562 0
@@ -48,7 +48,7 @@
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.math.deg-per-rad.js133453769616831771 0
 156C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\parse-int.js133453769846913248 0
 166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\typed-array\index.js133453769763943826 0
-122C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist133469442686209668 1
+122C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist133471985403161216 1
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\symbol\to-primitive.js133453769912430757 0
 159C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\array\index-of.js133453769749288943 0
 167C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\collection-weak.js133453769505677597 0
@@ -76,8 +76,8 @@
 146C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\semver\index.js133453068203026011 0
 161C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr\dist\index.min.js.map133453068216839181 0
 172C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\is-null-or-undefined.js133453769792532139 0
-128C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\index.html133454698292542045 0
-136C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@lmdb133453815856117452 1
+128C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\index.html133471968053787046 0
+136C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@lmdb133471944282622187 1
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\array\virtual\to-sorted.js133453769913752202 0
 135C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\img\icons.svg133219850899266908 0
 166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\alt-ww.js133453068205160293 0
@@ -86,14 +86,14 @@
 157C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\js-yaml\lib\schema\core.js133453068167979595 0
 147C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\is-glob\index.js133453068144342769 0
 140C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\commander133453068178162382 1
-149C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\.package-lock.json133453815861558524 0
+149C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\.package-lock.json133471944285823620 0
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml\node_modules\posthtml-parser\dist133453068175389850 1
 160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array-buffer133453769917379576 1
 187C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map133453068190140378 0
 156C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\general.js133453068171978910 0
 161C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\replace\Percentage.js133453068217048540 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\modules\custom.mjs133453068232168132 0
-135C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\package-lock.json133453815860238928 0
+135C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\package-lock.json133471944284586930 0
 171C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133453068192035320 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\array-with.js133453769461818680 0
 147C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\js\views\bookmarksView.js133465872483411613 0
@@ -103,7 +103,7 @@
 169C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\typed-array\includes.js133453769748265617 0
 172C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\typed-array\int32-array.js133453769788042568 0
 158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\lexer\Lexer.js133453068231260558 0
-130C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\package.json133469441882248679 0
+130C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\package.json133471944282731893 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\instance\splice.js133453769902597565 0
 166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\instance\reduce.js133453769864356551 0
 164C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\removeHiddenElems.js133453068222583744 0
@@ -212,7 +212,7 @@
 159C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\number\index.js133453769783045826 0
 139C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\sass\_upload.scss133219850901171805 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\last-index-of.js133453769801785976 0
-138C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133469347325176699 0
+138C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133471975232001260 0
 169C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\lib\esm\foreignNames.js133453068146277591 0
 139C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree133453068243936715 1
 166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types\value\argument_list.d.ts133453069924300869 0
@@ -220,7 +220,7 @@
 175C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array-buffer\constructor.js133453769521700373 0
 160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\map\index.js133453769768822963 0
 170C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\source\async-return-type.d.ts133453068158534830 0
-133C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\js\model.js133469366796842395 0
+133C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\js\model.js133471954404297282 0
 157C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\graph\src\types.js133453068205369751 0
 184C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs133453068271143977 0
 145C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domhandler\lib133453068178900417 1
@@ -263,7 +263,7 @@
 177C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map133453068202906322 0
 154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dist\index.cjs.map133453068244774449 0
 194C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133453068247178019 0
-148C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\js\views\addRecipieView.js133469327065415532 0
+148C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\src\js\views\addRecipieView.js133470158392985608 0
 155C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\source-map\source-map.js133453068155911867 0
 177C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\create-iter-result-object.js133453769533003926 0
 151C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\parse-json\readme.md133453068154814773 0
@@ -289,7 +289,7 @@
 142C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig133453068204492096 1
 158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\object\seal.js133453769881137270 0
 152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\weak-set133453769843971131 1
-135C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc133453815856010504 1
+135C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc133471944282552365 1
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\lexer\structure.js133453068240585640 0
 167C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.array.includes.js133453769571271905 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\aggregate-error.js133453769436499714 0
@@ -332,9 +332,9 @@
 161C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\match-all.js133453769807979990 0
 180C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133453068238062388 0
 164C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\entities\lib\encode-trie.d.ts.map133453068199704897 0
-148C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@msgpackr-extract133453815856100499 1
+148C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@msgpackr-extract133471944282612219 1
 159C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\math\asinh.js133453769465399746 0
-138C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel133453815856127188 1
+138C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel133471944282592255 1
 176C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\web.url-search-params.size.js133453769940155000 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\index.js133453769771284753 0
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\reflect\set-prototype-of.js133453769887844476 0
@@ -361,7 +361,7 @@
 137C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\semver133453068221745975 1
 165C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\typed-array\join.js133453769798883291 0
 154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib\helpers.js133453068151752953 0
-150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\index.js133453815854375118 0
+150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\index.js133471944274226888 0
 171C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\node-gyp-build-optional-packages\LICENSE133453068140223764 0
 188C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133453068229425472 0
 137C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\braces133453068165615918 1
@@ -474,15 +474,15 @@
 141C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domhandler133453068173056040 1
 160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr-extract\node_modules133453068362081687 1
 164C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\instance\trim-end.js133453769917718687 0
-191C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc133453068200432936 0
-160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\reflect\has.js133453769729760433 0
-185C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\async-disposable-stack\constructor.js133453769522664154 0
-169C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types\logger\source_location.d.ts133453069925108714 0
-139C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils133453068198996778 1
 167C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\canvas.js133453068234541791 0
 163C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\picocolors\picocolors.browser.js133453068144522292 0
 164C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\config\mix.js133453068234023167 0
 171C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-js\lib\source-map-consumer.js133453069916801586 0
+191C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc133453068200432936 0
+160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\reflect\has.js133453769729760433 0
+185C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\async-disposable-stack\constructor.js133453769522664154 0
+139C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils133453068198996778 1
+169C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types\logger\source_location.d.ts133453069925108714 0
 153C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\diagnostic\src133453068194438964 1
 178C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133453068215323143 0
 138C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\timsort133453068175459610 1
@@ -527,12 +527,16 @@
 163C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\flat-map.js133453769674392013 0
 141C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fill-range133453068153248955 1
 167C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\symbol\pattern-match.js133453769847396696 0
+162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\src133453068212490712 1
+170C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_iterable_to_array_limit133453068260193246 1
+139C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fraction133471944282183374 1
+158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\mergeStyles.js133453068211822490 0
 149C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stage\3.js133453769434112196 0
 170C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\function\virtual\bind.js133453769482597665 0
 161C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lines-and-columns\package.json133453068151174501 0
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\lib\requests\DevDepRequest.js133453068230352975 0
 149C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lru-cache\index.js133453068144203127 0
-141C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional133453815854575096 1
+141C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional133471944274356539 1
 180C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133453068230931436 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\resolver-default\package.json133453068180286723 0
 165C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\typed-array\for-each.js133453769689643898 0
@@ -935,7 +939,7 @@
 144C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\index.js133453068242221267 0
 175C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\reduce-right.js133453769862508037 0
 155C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\weak-lru-cache\README.md133453068177264786 0
-140C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\logo.833dfef5.png133469442666650153 0
+140C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\logo.833dfef5.png133471985392947032 0
 156C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\prefixIds.js133453068217257987 0
 158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\source-map\lib\array-set.js133453068165316711 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\virtual\anchor.js133453769437891598 0
@@ -1405,7 +1409,6 @@
 176C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_get_prototype_of\package.json133453068258767049 0
 150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\js-yaml\lib\type.js133453068211453479 0
 150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr\index.d.ts133453068223511284 0
-158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\mergeStyles.js133453068211822490 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\CDO.js133453068190808595 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133453068214096413 0
 170C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\dom-collections\index.js133453769785187484 0
@@ -1831,8 +1834,8 @@
 149C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\js-tokens\index.js133453068149548840 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types\legacy\importer.d.ts133453069924600078 0
 155C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\esm\_set.js133453068248035743 0
-170C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.number.is-integer.js133453769576683489 0
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\object\iterate-entries.js133453769796079884 0
+170C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.number.is-integer.js133453769576683489 0
 195C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose\package.json133453068257360817 0
 148C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\node_modules133453068123129456 1
 154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lines-and-columns\build133453068159312754 1
@@ -1848,7 +1851,7 @@
 177C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lz4\lib\dll\example\Makefile133453068200592511 0
 178C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133453068240715291 0
 165C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\array\virtual\values.js133453769932583446 0
-152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\index.html133453815854550355 0
+152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\index.html133471944274316668 0
 155C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\safe-buffer\package.json133453068149688467 0
 182C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133453068218684153 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\fscale.js133453769695323711 0
@@ -1861,7 +1864,7 @@
 158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\set\index.js133453769763652733 0
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\virtual\fontcolor.js133453769686341047 0
 186C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133453068194219548 0
-157C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\array_mixins.js133453815854066179 0
+157C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\array_mixins.js133471944274177037 0
 153C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\resolve-from\readme.md133453068155123968 0
 149C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\readme.md133453068199385729 0
 171C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\uint32-array.js133453769925950587 0
@@ -2646,7 +2649,7 @@
 163C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\virtual\sub.js133453769906703197 0
 165C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lines-and-columns\build\index.d.ts133453068160459696 0
 166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\schedulers-fix.js133453769880985552 0
-143C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\favicon.42656662.png133469442666510530 0
+143C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\favicon.42656662.png133471985392947032 0
 163C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\lines-and-columns\build\index.js133453068145469745 0
 171C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.symbol.matcher.js133453769624553492 0
 164C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\number\is-integer.js133453769791765676 0
@@ -2988,8 +2991,8 @@
 171C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\modules\removeUnusedCss.cjs133453068210635698 0
 170C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\modules\sortAttributes.mjs133453068237444044 0
 164C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\get-iterator-method.js133453769696722081 0
-160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\babel.config.js133453068214415571 0
 172C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\object\iterate-values.js133453769796274755 0
+160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\babel.config.js133453068214415571 0
 165C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\docusaurus.config.js133453068214954122 0
 176C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_class_private_field_set.cjs133453068209857760 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\async-iterator\from.js133453769693398477 0
@@ -3062,22 +3065,28 @@
 150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\LICENSE133453068140193853 0
 152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\glob-parent\README.md133453069916532292 0
 150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\get-port\index.d.ts133453068144422551 0
-154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\package.json133453815853946513 0
+154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\package.json133471944274007477 0
 158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\general.d.ts133453068211263989 0
-151C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\README.md133453815854026289 0
+151C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\README.md133471944274127177 0
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.reflect.metadata.js133453769618912277 0
 179C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\web.dom-exception.constructor.js133453769937754548 0
 164C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\av1.js133453068219661548 0
-150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\releases133453815854649896 1
+150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\releases133471944274406409 1
 154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fill-range\package.json133453068139016987 0
 151C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\index133453068266626065 1
-150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\tests.js133453815854520224 0
-166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\releases\fraction-0.1.js133453815854618328 0
+150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\tests.js133471944274266790 0
+166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\releases\fraction-0.1.js133471944274386465 0
 177C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\link-rel-preload.js133453068278155239 0
 159C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\of.js133453769843235689 0
 164C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\cooked.js133453769530787795 0
 159C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\json\parse.js133453769847115115 0
-166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\releases\fraction-0.2.js133453815854824667 0
+166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\releases\fraction-0.2.js133471944274416396 0
+154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\math\imul.js133453769733522869 0
+149C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv\lib\main.js133453068176227567 0
+148C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fraction\index.js133471944282253173 0
+183C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_iterable_to_array_limit\package.json133453068260203211 0
+152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fraction\package.json133471944282123517 0
+149C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\fraction\README.md133471944282173419 0
 165C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\scope\value.js133453068242650112 0
 152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\graph\LICENSE133453068154026876 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\trim-start.js133453769918950887 0
@@ -3200,8 +3209,6 @@
 141C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv\lib133453068175469582 1
 157C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\match.js133453769809284162 0
 156C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv\lib\env-options.js133453068172926380 0
-154C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\math\imul.js133453769733522869 0
-149C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv\lib\main.js133453068176227567 0
 143C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib133453068205808572 1
 147C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\LICENSE133453068138967114 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\details.js133453068258966604 0
@@ -3228,7 +3235,6 @@
 185C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133453068184106498 0
 158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib\index.d.ts.map133453068190579213 0
 158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\trim.js133453769920129375 0
-148C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.runtime.7fd2eb05.js133469442685711173 0
 155C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib\legacy.d.ts133453068203774001 0
 184C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.symbol.is-well-known-symbol.js133453769624288934 0
 152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\README.md133453068205289954 0
@@ -3239,7 +3245,6 @@
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\lib\requests\TargetRequest.js133453068248923354 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\FM.js133453068264681258 0
 157C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\set\of.js133453769843411854 0
-152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.runtime.7fd2eb05.js.map133469442686109949 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\virtual\trim-end.js133453769917618936 0
 159C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib\legacy.d.ts.map133453068192799343 0
 178C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\object\get-own-property-names.js133453769707562739 0
@@ -5555,7 +5560,7 @@
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\IN.js133453068272121381 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\every.js133453769636062949 0
 176C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\filter-reject.js133453769649347264 0
-141C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.628a78b8.css133469442685701036 0
+141C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.628a78b8.css133471985402812156 0
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\find-index.js133453769654015712 0
 156C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\markdown-ansi\src133453068157208377 1
 157C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features133453068304036116 1
@@ -6435,6 +6440,7 @@
 165C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\number\is-finite.js133453769791006009 0
 164C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\trim-end.js133453769917479322 0
 165C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\trim-left.js133453769917898196 0
+140C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.9e36ffdd.js133471985402842066 0
 156C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\package.json133453068252095008 0
 166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\trim-start.js133453769918874411 0
 160C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\string\trim.js133453769919788648 0
@@ -6811,7 +6817,7 @@
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\IM.js133453068271572874 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\JM.js133453068275462464 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\KE.js133453068276130648 0
-141C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\icons.c14567a0.svg133469442685671124 0
+141C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\icons.c14567a0.svg133471985402393275 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\KG.js133453068276719079 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\KH.js133453068276748998 0
 162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\KI.js133453068276858837 0
@@ -6956,9 +6962,8 @@
 188C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-container-queries-style.js133453068244734547 0
 182C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-container-queries.js133453068244884151 0
 186C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-container-query-units.js133453068245003824 0
-145C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.628a78b8.css.map133469442686129880 0
+145C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.628a78b8.css.map133471985403091403 0
 183C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-content-visibility.js133453068245352902 0
-140C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.78ec9a85.js133469442685730965 0
 176C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-crisp-edges.js133453068245951309 0
 175C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-cross-fade.js133453068246110956 0
 179C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-default-pseudo.js133453068246330283 0
@@ -7338,8 +7343,6 @@
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_initializer_warning_helper133453068259325603 1
 157C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_instanceof133453068259415340 1
 171C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_interop_require_wildcard133453068259704547 1
-162C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\src133453068212490712 1
-170C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_iterable_to_array_limit133453068260193246 1
 150C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_jsx133453068260382863 1
 166C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_non_iterable_spread133453068261818897 1
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_object_destructuring_empty133453068261928602 1
@@ -7377,7 +7380,6 @@
 179C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_object_spread_props\package.json133453068262038310 0
 179C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_non_iterable_spread\package.json133453068261818897 0
 177C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_non_iterable_rest\package.json133453068261499795 0
-183C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_iterable_to_array_limit\package.json133453068260203211 0
 177C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_iterable_to_array\package.json133453068260322888 0
 187C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_initializer_define_property\package.json133453068259215960 0
 168C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_inherits\package.json133453068259106143 0
@@ -7561,6 +7563,7 @@
 182C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_unsupported_iterable_to_array.cjs133453068233684098 0
 159C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_update.cjs133453068233903488 0
 158C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_using.cjs133453068234073055 0
+144C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.9e36ffdd.js.map133471985403101397 0
 167C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\lib\loadParcelPlugin.js133453068236775838 0
 173C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_wrap_async_generator.cjs133453068234332356 0
 170C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_wrap_native_super.cjs133453068234601623 0
@@ -8132,5 +8135,6 @@
 146C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\parcel.ps1133453068362510550 0
 144C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\sass.ps1133453069931501676 0
 140C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo133453068362530496 0
-144C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.78ec9a85.js.map133469442686179788 0
-133C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.html133469442685701036 0
+133C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.html133471985402812156 0
+148C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.runtime.02a48548.js133471985402852141 0
+152C:\Users\Aaron.Ramos\OneDrive - Expro Americas LLC\Desktop\Aaron\complete-javascript-course-master\18-forkify\starter\dist\index.runtime.02a48548.js.map133471985403101397 0
