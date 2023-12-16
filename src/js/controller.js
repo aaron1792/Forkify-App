@@ -1,4 +1,5 @@
 import * as model from './model.js';
+import { MODAL_CLOSE_SEC } from './config.js';
 import recipeView from './views/recipeViews.js';
 import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
@@ -8,6 +9,7 @@ import addRecipieView from './views/addRecipieView.js';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
+import { MODAL_CLOSE_SEC } from './config.js';
 
 // if (module.hot) {
 //   module.hot.accept();
@@ -92,8 +94,32 @@ const controlBookmarks = function () {
 
 const controlAddRecipe = async function (newRecipe) {
   try {
+    //Show loading spinner
+    addRecipieView.renderSpinner();
+
+    // Upload new recipe data
     await model.uploadRecipe(newRecipe);
     console.log(model.state.recipe);
+
+    //Render recipe
+
+    recipeView.render(model.state.recipe);
+
+    //Sucess Message
+    addRecipieView.renderMessage();
+
+    //Render bookmark view
+
+    bookmarksView.render(model.state.bookmarks);
+
+    //Change id in the url
+    window.history.pushState(null, '', `#${model.state.recipe.id}`);
+
+    //Close form window
+
+    setTimeout(function () {
+      addRecipieView.toggleWindow();
+    }, MODAL_CLOSE_SEC * 1000);
   } catch (err) {
     console.error('explosion', err);
     addRecipieView.renderError(err.message);

@@ -3,6 +3,7 @@ import icons from 'url:../../img/icons.svg';
 
 class AddRecipieView extends View {
   _parentElement = document.querySelector('.upload');
+  _message = 'Recipe was succesfull upload it';
 
   _window = document.querySelector('.add-recipe-window');
 
@@ -19,7 +20,7 @@ class AddRecipieView extends View {
   }
 
   toggleWindow() {
-    this._overlay.classList.toogle('hidden');
+    this._overlay.classList.toggle('hidden');
 
     this._window.classList.toggle('hidden');
   }
